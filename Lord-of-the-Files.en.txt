@@ -1,5 +1,7 @@
 ﻿Lord of the Files: How GitHub Tamed Free Software (And More)
 
+檔案總管: GitHub 如何馴服自由軟體(與更多)
+
 By Robert McMillan, Wired Enterprise
 
 SAN FRANCISCO — When the founders of GitHub moved into their swank South-of-Market loft last year, the first thing they did was redecorate. They turned the floor’s biggest office into a parody of an executive suite — complete with fake fireplace, plush leather chairs, and a wooden globe that slides open to reveal a bottle of single malt scotch. Hanging from the wall is a painting of a cat, dressed as Napoleon, with five octopus-like legs. They call it the Octocat.
