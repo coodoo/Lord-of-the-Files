@@ -1,4 +1,6 @@
-Lord of the Files: How GitHub Tamed Free Software (And More)
+﻿Lord of the Files: How GitHub Tamed Free Software (And More)
+
+檔案總管: GitHub 如何馴服自由軟體(與更多)
 
 By Robert McMillan, Wired Enterprise
 
